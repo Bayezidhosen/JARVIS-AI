@@ -1,0 +1,6 @@
+{
+  "name": "JARVIS AI — Personal Voice Agent",
+  "description": "Intelligent, voice-controlled personal AI assistant supporting Bangla, English, and Banglish with speech recognition, dynamic orb waveform, real tool actions, memory, and task execution.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
